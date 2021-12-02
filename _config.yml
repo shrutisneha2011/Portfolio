@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Shruti Sneha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shruti-sneha-339079183/">LinkedIn</a> |
+  <a href="https://github.com/shrutisneha2011">GitHub</a>
+  
+  <br>   
+  Dedicated, passionate, and competent AI Engineer with 5.6 years of experience in designing and developing AI applications. 
+  Possess hands-on experience of writing code in Python as well as building complicated neural networks. 
+  Familiar with SDLC, and capable of thinking out-of-the-box to create seamless, exciting products for the target audience. 
+  Excellent analytical thinking and written/verbal communication skills.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
